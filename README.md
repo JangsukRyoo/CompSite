@@ -23,13 +23,15 @@ DB 설계
 <img src="https://user-images.githubusercontent.com/70876778/167749295-0734f75b-d662-4569-83f1-4de033d41154.jpg" width="300" height="200" >
 <br><br>
 
-PC 만들기
-<br>
+메인페이지 <br>
+<img src="https://user-images.githubusercontent.com/70876778/167749742-3bd3b463-bd58-497d-b29f-f50e8768f133.jpg" width="300" height="200">
+<br><br>
+
+PC 만들기<br>
 <img src="https://user-images.githubusercontent.com/70876778/167749297-dc550335-a067-4650-a475-47406a7153b9.jpg" width="300" height="200" >
 <br><br>
 
-자유게시판
-<br>
+자유게시판<br>
 <img src="https://user-images.githubusercontent.com/70876778/167749299-c14893d6-8991-42e9-8f5b-e48ae2a510ef.jpg" width="300" height="200" >
 <br><br>
 
