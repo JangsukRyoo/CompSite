@@ -4,9 +4,7 @@
  개발 환경 
            
          Language: JAVA, HTML, CSS, JavaScript, Jquery
-
           DB   : ORACLE DB 11
-          
           SERVER  : APache Tomcat 9.0
 
             
