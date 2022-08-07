@@ -28,10 +28,6 @@ PC 만들기<br>
 <img src="https://user-images.githubusercontent.com/70876778/167749297-dc550335-a067-4650-a475-47406a7153b9.jpg" width="300" height="200" >
 <br><br>
 
-자유게시판<br>
-<img src="https://user-images.githubusercontent.com/70876778/167749299-c14893d6-8991-42e9-8f5b-e48ae2a510ef.jpg" width="300" height="200" >
-<br><br>
-
 
 
 
